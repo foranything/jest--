@@ -2,6 +2,10 @@
 
 [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 
+## ref
+
+https://alexjover.com/blog/write-the-first-vue-js-component-unit-test-in-jest/
+
 ## Build Setup
 
 ``` bash
