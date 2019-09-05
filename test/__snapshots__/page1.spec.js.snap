@@ -4,17 +4,8 @@ exports[`page1 has the expected html structure 1`] = `
 <div
   id="app"
 >
-  <ul>
-    <li>
-      
-    Cat
-  
-    </li>
-    <li>
-      
-    Dog
-  
-    </li>
-  </ul>
+  <messagelist-stub
+    messages="Hey John,Howdy Paco"
+  />
 </div>
 `;
