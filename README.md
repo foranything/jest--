@@ -1,6 +1,6 @@
 # jest
 
-> My exceptional Nuxt.js project
+[Vue Test Utils](https://vue-test-utils.vuejs.org/)
 
 ## Build Setup
 
