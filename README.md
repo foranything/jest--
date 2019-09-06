@@ -4,6 +4,8 @@
 
 ## ref
 
+https://jestjs.io/
+
 https://alexjover.com/blog/write-the-first-vue-js-component-unit-test-in-jest/
 
 ## Build Setup
