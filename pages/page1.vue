@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="page1-id" class="bar">
     <MessageList :messages="messages"/>
   </div>
 </template>

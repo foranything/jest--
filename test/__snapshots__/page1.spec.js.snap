@@ -2,7 +2,8 @@
 
 exports[`page1 has the expected html structure 1`] = `
 <div
-  id="app"
+  class="bar"
+  id="page1-id"
 >
   <messagelist-stub
     messages="Hey John,Howdy Paco"
