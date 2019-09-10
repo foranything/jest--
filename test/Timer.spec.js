@@ -1,8 +1,9 @@
+/* eslint-disable no-console */
 function timerGame(callback) {
   console.log('Ready....go!');
   setTimeout(() => {
     console.log("Time's up -- stop!");
-    callback && callback();
+    callback();
   }, 1000);
 }
 

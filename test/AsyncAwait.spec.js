@@ -1,6 +1,8 @@
-function fetchData(isSuccess){
+// eslint-disable-next-line consistent-return
+function fetchData(isSuccess) {
   if (isSuccess) return 'peanut butter';
-  else fake()
+  // eslint-disable-next-line no-undef
+  fake();
 }
 describe('AsyncAwait', () => {
   test('the data is peanut butter', async () => {
